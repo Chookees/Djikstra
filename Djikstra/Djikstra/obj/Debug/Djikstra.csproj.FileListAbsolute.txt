@@ -1,0 +1,16 @@
+C:\Users\arturb\source\repos\Djikstra\Djikstra\bin\Debug\Resourcen\Knoten.csv
+C:\Users\arturb\source\repos\Djikstra\Djikstra\bin\Debug\Djikstra.exe.config
+C:\Users\arturb\source\repos\Djikstra\Djikstra\bin\Debug\Djikstra.exe
+C:\Users\arturb\source\repos\Djikstra\Djikstra\bin\Debug\Djikstra.pdb
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.csprojAssemblyReference.cache
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\MainWindow.g.cs
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\App.g.cs
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra_MarkupCompile.cache
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra_MarkupCompile.lref
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\MainWindow.baml
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.g.resources
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.Properties.Resources.resources
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.csproj.GenerateResource.cache
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.csproj.CoreCompileInputs.cache
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.exe
+C:\Users\arturb\source\repos\Djikstra\Djikstra\obj\Debug\Djikstra.pdb
